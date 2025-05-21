@@ -101,11 +101,11 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
   ```
 
 3. Instale as dependências:
-  `
+  ```sh
   npm install
   # ou
   yarn install
-  `
+  ```
 
 4. Inicie o servidor de desenvolvimento:
   ```sh
