@@ -132,9 +132,12 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📧 Contato
 
+Linkedin - [Rodrigo Silva](https://www.linkedin.com/in/rodrigo-silva-b083a8271/)
+
 Rodrigomsdevs - [@Rodrigomsdevs](https://github.com/Rodrigomsdevs)
 
 Link do Projeto: [https://github.com/Rodrigomsdevs/jsonlicious.com](https://github.com/Rodrigomsdevs/jsonlicious.com)
+
 
 ## 🙏 Agradecimentos
 
