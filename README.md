@@ -90,25 +90,31 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
 
 ### Instalação
 
-1. Clone o repositório
-   \`\`\`sh
-   git clone https://github.com/Rodrigomsdevs/jsonlicious.com.git
-   \`\`\`
+1. Clone o repositório:
+  ```sh
+  git clone https://github.com/Rodrigomsdevs/jsonlicious.com.git
+  ```
 
-2. Instale os pacotes NPM
-   \`\`\`sh
-   cd jsonlicious.com
-   npm install
-   # ou
-   yarn install
-   \`\`\`
+2. Navegue até o diretório do projeto:
+  ```sh
+  cd jsonlicious.com
+  ```
 
-3. Execute o servidor de desenvolvimento
-   \`\`\`sh
-   npm run dev
-   # ou
-   yarn dev
-   \`\`\`
+3. Instale as dependências:
+  ```sh
+  npm install
+  # ou
+  yarn install
+  ```
+
+4. Inicie o servidor de desenvolvimento:
+  ```sh
+  npm run dev
+  # ou
+  yarn dev
+  ```
+
+5. Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto.
 
 4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado
 
