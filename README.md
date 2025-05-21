@@ -116,7 +116,6 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
 
 5. Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto.
 
-4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado
 
 ## 🤝 Contribuindo
 
