@@ -22,8 +22,7 @@ export const sampleJson = {
     "Indicadores de tipo e tamanho",
   ],
   tecnologias: {
-    frontend: ["Next.js 15", "React", "TypeScript", "Tailwind CSS v3", "Radix UI"],
-    implantacao: "Vercel",
+    frontend: ["Next.js 15", "React", "TypeScript", "Tailwind CSS v3", "Radix UI"]
   },
   licenca: "MIT",
   contribuir: {
