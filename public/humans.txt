@@ -1,0 +1,11 @@
+/* TEAM */
+    Developer: Rodrigomsdevs
+    GitHub: https://github.com/Rodrigomsdevs
+    Location: Brasil
+
+/* SITE */
+    Last update: 2023-05-20
+    Standards: HTML5, CSS3, JavaScript, TypeScript, React, Next.js
+    Components: Tailwind CSS, Radix UI
+    Software: Visual Studio Code, Git
+    Language: Portuguese, English

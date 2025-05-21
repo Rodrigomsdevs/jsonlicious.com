@@ -1,0 +1,63 @@
+{
+  "name": "JSONlicious - Formatador e Validador de JSON",
+  "short_name": "JSONlicious",
+  "description": "Ferramenta gratuita e open source para formatar, validar e visualizar JSON",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "scope": "/",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["developer", "tools", "utilities"],
+  "screenshots": [
+    {
+      "src": "/images/screenshot-desktop.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Tela inicial do JSONlicious no desktop"
+    },
+    {
+      "src": "/images/screenshot-mobile.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Tela inicial do JSONlicious no mobile"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Formatar JSON",
+      "url": "/?action=format",
+      "description": "Formatar um JSON"
+    },
+    {
+      "name": "Validar JSON",
+      "url": "/?action=validate",
+      "description": "Validar um JSON"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://jsonlicious.com"
+    }
+  ],
+  "prefer_related_applications": false
+}

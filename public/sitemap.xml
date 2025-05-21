@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://jsonlicious.com</loc>
+    <lastmod>2023-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jsonlicious.com" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://jsonlicious.com/en" />
+    <image:image>
+      <image:loc>https://jsonlicious.com/images/jsonlicious-og.png</image:loc>
+      <image:title>JSONlicious - Formatador e Validador de JSON</image:title>
+      <image:caption>Ferramenta gratuita e open source para formatar, validar e visualizar JSON</image:caption>
+    </image:image>
+  </url>
+</urlset>

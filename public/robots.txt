@@ -1,0 +1,28 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://jsonlicious.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
+
+# Disallow specific paths
+Disallow: /api/
+Disallow: /_next/static/
+
+# Google-specific
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+
+# Bing-specific
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+
+# Yandex-specific
+User-agent: Yandex
+Allow: /
+Disallow: /api/
