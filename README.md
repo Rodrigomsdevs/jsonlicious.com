@@ -36,8 +36,6 @@
 - [Começando](#-começando)
   - [Pré-requisitos](#pré-requisitos)
   - [Instalação](#instalação)
-- [Uso](#-uso)
-- [Roadmap](#-roadmap)
 - [Contribuindo](#-contribuindo)
 - [Licença](#-licença)
 - [Contato](#-contato)
@@ -114,28 +112,6 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
 
 4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado
 
-## 📖 Uso
-
-1. **Formatar JSON**: Cole seu JSON na área de entrada e ele será automaticamente formatado na área de saída.
-2. **Validar JSON**: Se houver erros no seu JSON, mensagens de erro claras serão exibidas.
-3. **Carregar arquivo**: Clique no botão "Carregar Arquivo" para carregar um arquivo JSON do seu computador.
-4. **Carregar exemplo**: Clique no botão "Carregar Exemplo" para ver um exemplo de JSON formatado.
-5. **Copiar resultado**: Clique no botão "Copiar" para copiar o JSON formatado para a área de transferência.
-6. **Baixar resultado**: Clique no botão "Baixar" para salvar o JSON formatado como um arquivo.
-7. **Alternar tema**: Use o seletor de tema no canto superior direito para alternar entre os temas disponíveis.
-
-## 🗺️ Roadmap
-
-- [ ] Adicionar suporte para minificação de JSON
-- [ ] Implementar visualização de diferenças entre JSONs
-- [ ] Adicionar suporte para validação de esquema JSON
-- [ ] Adicionar suporte para consultas JSONPath
-- [ ] Implementar pesquisa dentro do JSON
-- [ ] Adicionar mais temas
-- [ ] Suporte para mais idiomas
-
-Veja os [issues abertos](https://github.com/Rodrigomsdevs/jsonlicious.com/issues) para uma lista completa de recursos propostos e problemas conhecidos.
-
 ## 🤝 Contribuindo
 
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
@@ -161,7 +137,6 @@ Link do Projeto: [https://github.com/Rodrigomsdevs/jsonlicious.com](https://gith
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Radix UI](https://www.radix-ui.com/)
-- [Vercel](https://vercel.com/)
 - [Lucide Icons](https://lucide.dev/)
 - Todos os contribuidores e apoiadores do projeto
 
