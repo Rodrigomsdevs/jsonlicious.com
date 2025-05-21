@@ -78,9 +78,8 @@ O JSONlicious é construído com tecnologias modernas:
 - [Next.js 15](https://nextjs.org/) - Framework React com renderização do lado do servidor
 - [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces
 - [TypeScript](https://www.typescriptlang.org/) - Superset tipado de JavaScript
-- [Tailwind CSS v4](https://tailwindcss.com/) - Framework CSS utilitário
+- [Tailwind CSS v3](https://tailwindcss.com/) - Framework CSS utilitário
 - [Radix UI](https://www.radix-ui.com/) - Componentes de UI primitivos e acessíveis
-- [Vercel](https://vercel.com/) - Plataforma de hospedagem e implantação
 
 ## 🏁 Começando
 
