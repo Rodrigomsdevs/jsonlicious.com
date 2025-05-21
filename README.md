@@ -116,7 +116,6 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
 
 5. Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto.
 
-
 ## 🤝 Contribuindo
 
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
